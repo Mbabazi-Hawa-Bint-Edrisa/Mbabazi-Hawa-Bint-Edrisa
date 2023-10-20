@@ -1,0 +1,7 @@
+body{background-image: url(./images/background4.jpeg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: 60%;
+background-color: bisque;
+}
+h1{text-align: center;font-size: 100px;}
