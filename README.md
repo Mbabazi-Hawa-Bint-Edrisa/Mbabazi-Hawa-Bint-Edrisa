@@ -4,6 +4,8 @@
 **Mbabazi-Hawa-Bint-Edrisa/Mbabazi-Hawa-Bint-Edrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am working on a restuarant website
+displaying the menu and some information about the restuarant, address and how to get in touch.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
